@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+}
+#cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  width: 16rem;
+}
+h1 {
+  margin: 0 auto;
+  width: fit-content;
+}
+.cardImg {
+  display: none;
+}
